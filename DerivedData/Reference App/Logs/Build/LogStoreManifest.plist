@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>53704334-D09D-4C0B-BAC8-71E02371DF41</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>53704334-D09D-4C0B-BAC8-71E02371DF41.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Reference App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Reference App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Reference App</string>
+			<key>timeStartedRecording</key>
+			<real>580138863.382025</real>
+			<key>timeStoppedRecording</key>
+			<real>580138873.13601899</real>
+			<key>title</key>
+			<string>Build Reference App</string>
+			<key>uniqueIdentifier</key>
+			<string>53704334-D09D-4C0B-BAC8-71E02371DF41</string>
+		</dict>
+		<key>6D09163D-0408-4EEA-8085-D9C27160CFA3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6D09163D-0408-4EEA-8085-D9C27160CFA3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Reference App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Reference App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Reference App</string>
+			<key>timeStartedRecording</key>
+			<real>580139524.34021401</real>
+			<key>timeStoppedRecording</key>
+			<real>580139547.11795497</real>
+			<key>title</key>
+			<string>Build Reference App</string>
+			<key>uniqueIdentifier</key>
+			<string>6D09163D-0408-4EEA-8085-D9C27160CFA3</string>
+		</dict>
+		<key>9E321617-E4C0-47A9-A312-44731E78FE66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E321617-E4C0-47A9-A312-44731E78FE66.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Reference App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Reference App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Reference App</string>
+			<key>timeStartedRecording</key>
+			<real>580139323.49387801</real>
+			<key>timeStoppedRecording</key>
+			<real>580139331.25187004</real>
+			<key>title</key>
+			<string>Build Reference App</string>
+			<key>uniqueIdentifier</key>
+			<string>9E321617-E4C0-47A9-A312-44731E78FE66</string>
+		</dict>
+		<key>AB1CDDA6-535D-419B-BE59-C6F6A0DB3261</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AB1CDDA6-535D-419B-BE59-C6F6A0DB3261.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Reference App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Reference App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Reference App</string>
+			<key>timeStartedRecording</key>
+			<real>580140057.00819194</real>
+			<key>timeStoppedRecording</key>
+			<real>580140059.24777997</real>
+			<key>title</key>
+			<string>Build Reference App</string>
+			<key>uniqueIdentifier</key>
+			<string>AB1CDDA6-535D-419B-BE59-C6F6A0DB3261</string>
+		</dict>
+		<key>D275BEA6-1632-4B41-9AFC-B21E71B3F22F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D275BEA6-1632-4B41-9AFC-B21E71B3F22F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Reference App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Reference App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Reference App</string>
+			<key>timeStartedRecording</key>
+			<real>580139151.97926497</real>
+			<key>timeStoppedRecording</key>
+			<real>580139175.11353302</real>
+			<key>title</key>
+			<string>Build Reference App</string>
+			<key>uniqueIdentifier</key>
+			<string>D275BEA6-1632-4B41-9AFC-B21E71B3F22F</string>
+		</dict>
+		<key>FF956404-40D9-4E69-A882-B787B0B5003A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FF956404-40D9-4E69-A882-B787B0B5003A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Reference App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Reference App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Reference App</string>
+			<key>timeStartedRecording</key>
+			<real>580139449.69966602</real>
+			<key>timeStoppedRecording</key>
+			<real>580139454.04683399</real>
+			<key>title</key>
+			<string>Build Reference App</string>
+			<key>uniqueIdentifier</key>
+			<string>FF956404-40D9-4E69-A882-B787B0B5003A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
